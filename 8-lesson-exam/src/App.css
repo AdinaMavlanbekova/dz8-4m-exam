@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+.App {
+  padding: 30px;
+  max-width: 300px;
+}
+
+form {
+  display: flex;
+}
+
+table {
+  margin-top: 50px;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
